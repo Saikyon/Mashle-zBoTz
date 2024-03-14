@@ -30,7 +30,7 @@ cd /sdcard/mashle-bot
 ```
 **⚡5° Comando ✅**
 ```
-sh bash.sh
+sh instalar.sh
 ```
 **⚡6° Iniciar o mashle-bot ✅**
 ```
