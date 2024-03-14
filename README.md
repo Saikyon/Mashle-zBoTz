@@ -22,7 +22,7 @@ cd /sdcard/
 ```
 **⚡3° Comando ✅**
 ```
-git clone https://github.com/Saikyon/mashle-bot.git
+git clone https://github.com/Saikyon/Mashle-zBoTz.git
 ```
 **⚡4° Comando ✅**
 ```
